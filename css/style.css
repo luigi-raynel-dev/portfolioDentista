@@ -29,17 +29,14 @@ section.header-master header{
 
 div.logo{
 	float: left;
-	width: 166px;
-	height: 64px;
-	background-image: url('../images/logo.png');
-	background-size: 100% 100%;
+	color: white;
 }
 
 nav.mobile{
 	display: none;
 	float: right;
 	position: relative;
-	top: 10px;
+	top: 20px;
 	margin-right: 10px;
 }
 
